@@ -1,6 +1,6 @@
 # tuskfish
 
-[This codebase has been superseded and is not longer being maintained. Please use the tuskfish2 codebase or later]
+***This codebase has been superseded and is not longer being maintained. Please use the tuskfish2 codebase or later***
 
 A single user micro CMS. Tuskfish is designed to provide a minimalist yet capable framework for
 publishing different kinds of content. It is suitable for use by individuals and small
