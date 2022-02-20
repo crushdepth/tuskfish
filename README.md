@@ -1,4 +1,4 @@
-# tuskfish
+# tuskfish (deprecated - use tuskfish2)
 
 ***This codebase has been superseded and is not longer being maintained. Please use the tuskfish2 codebase or later***
 
